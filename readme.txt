@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git diff
 Creating a new branch is quick and simple.
 branch manage
+bug branch
